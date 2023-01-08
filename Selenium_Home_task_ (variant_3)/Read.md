@@ -1,7 +1,7 @@
-# Selenium_Home_task_variant_3
+# Selenium_Home_task_(variant_3)
 
 ## Step 1
-Go to directory Selenium_Home_task_variant_3
+Go to directory Selenium_Home_task_(variant_3)
 
 ## Step 2
 Install all requirements
